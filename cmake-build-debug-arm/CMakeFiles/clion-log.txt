@@ -1,0 +1,5 @@
+/opt/jetbrains/toolbox/apps/CLion/ch-0/213.6461.75/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/opt/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-gcc -DCMAKE_CXX_COMPILER=/opt/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-g++ -G "CodeBlocks - Unix Makefiles" /home/bronislav/E/Embedded/stm32/projects/Clion/magn
+-- Minimal optimization, debug info included
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/bronislav/E/Embedded/stm32/projects/Clion/magn/cmake-build-debug-arm

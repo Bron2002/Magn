@@ -1,0 +1,3 @@
+/home/bronislav/E/Embedded/stm32/projects/Clion/magn/cmake-build-debug-arm/CMakeFiles/rebuild_cache.dir
+/home/bronislav/E/Embedded/stm32/projects/Clion/magn/cmake-build-debug-arm/CMakeFiles/edit_cache.dir
+/home/bronislav/E/Embedded/stm32/projects/Clion/magn/cmake-build-debug-arm/CMakeFiles/magn.elf.dir
